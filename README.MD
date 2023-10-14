@@ -9,9 +9,9 @@
 
 - 🤝 I’m looking for help with [Lane-Keeping_and_Obstacle-Avoidance_System](https://github.com/Carson-We/Lane-Keeping_and_Obstacle-Avoidance_System)
 
-- 👨‍💻 All of my projects are available at [https://github.com/Carson-We](https://github.com/Carson-We)
+- 👨‍💻 All of my projects are available at [my GitHub](https://github.com/Carson-We) and [my website](http://carson1125.hk)
 
-- 📄 Know about my experiences [carson1125.hk](carson1125.hk)
+- 📄 Know about my experiences on [my website](carson1125.hk)
 
 - ⚡ Fun fact **I think I'm funny**
 
