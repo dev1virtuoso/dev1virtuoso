@@ -2,12 +2,6 @@
 <h3 align="center">A ML developer from Hong Kong</h3>
 
 [![Stand With Ukraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/badges/StandWithUkraine.svg)](https://stand-with-ukraine.pp.ua)
-> “我們希望有一天，那些設置障礙使自己的人民與世界隔離、使人民互相隔離的政府，將認識到他們這麼做不但傷害自己的利益，也傷害自己公民和全人類的權利。”
->
-> "We hope that one day, governments who build barriers to disconnect their people from the world and each other will recognize that they are acting against their own interests, as well as the rights of their citizens and all humanity."
->
-> [Reference](https://blog.zoom.us/improving-our-policies-as-we-continue-to-enable-global-collaboration/)
-
 
 - 🔭 I’m currently working on [yujin_ive_lora](https://github.com/Carson-We/yujin_ive_lora)
 
