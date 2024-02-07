@@ -1,6 +1,15 @@
 <h1 align="center">Hi 👋, I'm Carson</h1>
 <h3 align="center">A ML developer from Hong Kong</h3>
 
+
+
+> “我们希望有一天，那些设置障碍使自己的人民与世界隔离、使人民互相隔离的政府，将认识到他们这么做不但伤害自己的利益，也伤害自己公民和全人类的权利。”
+>
+> "We hope that one day, governments who build barriers to disconnect their people from the world and each other will recognize that they are acting against their own interests, as well as the rights of their citizens and all humanity."
+>
+> [Reference](https://blog.zoom.us/improving-our-policies-as-we-continue-to-enable-global-collaboration/)
+
+
 - 🔭 I’m currently working on [yujin_ive_lora](https://github.com/Carson-We/yujin_ive_lora)
 
 - 🌱 I’m currently learning **Go and Ruby**
