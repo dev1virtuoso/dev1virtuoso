@@ -11,7 +11,7 @@
 
 - 🤝 I’m looking for help with [Lane-Keeping_and_Obstacle-Avoidance_System](https://github.com/Carson-We/Lane-Keeping_and_Obstacle-Avoidance_System)
 
-- 👨‍💻 All of my projects are available at [my GitHub](https://github.com/Carson-We) and [my website](http://carson1125.hk)
+- 👨‍💻 All of my projects are available at [my GitHub](https://github.com/Carson-We) and [my website](https://carson1125.vercel.app)
 
 - 📄 Know about my experiences on [my website](carson1125.hk)
 
