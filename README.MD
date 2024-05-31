@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [my GitHub](https://github.com/Carson-We) and [my website](https://carson1125.vercel.app)
 
-- 📄 Know about my experiences on [my website](carson1125.hk)
+- 📄 Know about my experiences on [my website](https://carson1125.vercel.app)
 
 - ⚡ Fun fact **I think I'm funny**
 
