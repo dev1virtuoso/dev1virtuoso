@@ -3,17 +3,17 @@
 
 [![Stand With Ukraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/badges/StandWithUkraine.svg)](https://stand-with-ukraine.pp.ua)
 
-- 🔭 I’m currently working on [yujin_ive_lora](https://github.com/Carson-We/yujin_ive_lora)
+- 🔭 I’m currently working on [yujin_ive_lora](https://github.com/Carson-We/Machine-Learning/tree/main/LoRA/yujin_ive_lora)
 
 - 🌱 I’m currently learning **Go and Ruby**
 
-- 👯 I’m looking to collaborate on [ViDiAD](https://github.com/Carson-We/ViDiAD)
+- 👯 I’m looking to collaborate on [ViDiAD](https://github.com/Carson-We/Machine-Learning/tree/main/Computer-Vision/ViDiAD)
 
-- 🤝 I’m looking for help with [Lane-Keeping_and_Obstacle-Avoidance_System](https://github.com/Carson-We/Lane-Keeping_and_Obstacle-Avoidance_System)
+- 🤝 I’m looking for help with [Lane-Keeping_and_Obstacle-Avoidance_System](https://github.com/Carson-We/Machine-Learning/tree/main/Computer-Vision/Lane-Keeping%20and%20Obstacle-Avoidance%20System)
 
 - 👨‍💻 All of my projects are available at [my GitHub](https://github.com/Carson-We) and [my website](https://carson-we.github.io/Website/carson1125/)
 
-- 📄 Know about my experiences on [my website](https://carson1125.vercel.app)
+- 📄 Know about my experiences on [my website](https://carson-we.github.io/Website/carson1125/)
 
 - ⚡ Fun fact **I think I'm funny**
 
