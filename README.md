@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [my GitHub](https://github.com/Carson-We) and [my website](https://carson-we.github.io/Website/carson1125/)
 
-- 📄 Know about my experiences on [my website](https://carson-we.github.io/Website/carson1125/)
+- 📄 Know about my experiences on [my website](https://carson-we.github.io/Website/carson1125/carson1125/)
 
 - ⚡ Fun fact **I think I'm funny**
 
