@@ -3,6 +3,8 @@
 
 [![Stand With Ukraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/badges/StandWithUkraine.svg)](https://stand-with-ukraine.pp.ua)
 
+<a href="https://www.buymeacoffee.com/carson.we"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=☕&slug=carson.we&button_colour=BD5FFF&font_colour=ffffff&font_family=Cookie&outline_colour=000000&coffee_colour=FFDD00" /></a>
+
 - 🔭 I’m currently working on [yujin_ive_lora](https://github.com/Carson-We/Machine-Learning/tree/main/LoRA/yujin_ive_lora)
 
 - 🌱 I’m currently learning **Go and Ruby**
