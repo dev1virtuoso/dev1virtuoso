@@ -49,8 +49,19 @@ Email: [carson.developer1125@gmail.com](mailto:carson.developer1125@gmail.com)
 
 - [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
 
-[![GitHub Streak](https://github-readme-stats.vercel.app/api?username=Carson-We)](https://github-readme-stats.vercel.app/api?username=Carson-We)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Carson-We"/>
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Carson-We&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage"/>
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Carson-We&layout=donut"/>
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Carson-We"/>
+<a/>
 
-- [github-readme-streak-stats](https://github.com/anuraghazra/github-readme-stats)
+- [GitHub Streak](https://github.com/anuraghazra/github-readme-stats)
 
-[![GitHub Stat](https://streak-stats.demolab.com?user=Carson-We&theme=dark&date_format=M%20j%5B%2C%20Y%5D)]([https://git.io/streak-stats](https://streak-stats.demolab.com?user=Carson-We&theme=dark&date_format=M%20j%5B%2C%20Y%5D))
+[![github-readme-streak-stats](https://streak-stats.demolab.com?user=Carson-We&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://streak-stats.demolab.com?user=Carson-We&theme=dark&date_format=M%20j%5B%2C%20Y%5D)
