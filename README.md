@@ -64,6 +64,9 @@ Email: [carson.developer1125@gmail.com](mailto:carson.developer1125@gmail.com)
 <a herf="https://wakatime.com">
   <img src="https://wakatime.com/share/@5e7871c6-3670-4c66-9551-e418d09cbff9/b6eacb87-6008-4dc7-8d1b-4174e119865d.svg"/>
 </a>
+<a herf="https://wakatime.com">
+  <img src="https://wakatime.com/share/@5e7871c6-3670-4c66-9551-e418d09cbff9/4dc34e3d-cfe3-44a6-9b5c-78e6ecd81c63.svg"/>
+</a>
 
 - [GitHub Streak](https://github.com/anuraghazra/github-readme-stats)
 
