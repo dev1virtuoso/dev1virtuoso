@@ -18,6 +18,7 @@
 - ⚡ Fun fact **I think I'm funny**
 
 <h3 align="left">Connect with me:</h3>
+
 Feel free to reach out to me through the [following methods](https://github.com/dev1virtuoso/Documentation/blob/main/dev1virtuoso/Attachment/dev1virtuoso/carson-wu.md).
 
 <h3 align="left">Languages and Tools:</h3>
