@@ -42,6 +42,10 @@ Feel free to reach out to me through the [following methods](https://github.com/
   <li>TensorFlow</li>
   <li>TypeScript</li>
 </ol>
+
+<h3>Table of Contents</h3>
+- [Table of Contents](https://github.com/dev1virtuoso/Documentation/blob/main/dev1virtuoso/Attachment/dev1virtuoso/table-of-contents.md)
+
 <h3>GitHub Stats</h3>
 
 - [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
