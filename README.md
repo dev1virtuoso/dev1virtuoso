@@ -43,6 +43,8 @@ Feel free to reach out to me through the [following methods](https://github.com/
   <li>TypeScript</li>
 </ol>
 
+![QR Code](https://github.com/dev1virtuoso/Documentation/blob/main/dev1virtuoso/Attachment/dev1virtuoso/images/QR%20Code/v2/v2_qrcode.png)
+
 <h3>Table of Contents</h3>
 
 - [Table of Contents](https://github.com/dev1virtuoso/Documentation/blob/main/dev1virtuoso/Attachment/dev1virtuoso/table-of-contents.md)
