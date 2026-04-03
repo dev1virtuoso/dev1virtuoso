@@ -51,18 +51,6 @@ Feel free to reach out to me through the [following methods](https://github.com/
 
 <h3>GitHub Stats</h3>
 
-- [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=dev1virtuoso"/>
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=dev1virtuoso&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage"/>
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev1virtuoso&layout=donut"/>
-</a>
-
 - [WakaTime](https://wakatime.com)
 
 <a herf="https://wakatime.com">
@@ -81,7 +69,3 @@ Feel free to reach out to me through the [following methods](https://github.com/
 - [GitHub Streak](https://github.com/anuraghazra/github-readme-stats)
 
 [![github-readme-streak-stats](https://streak-stats.demolab.com?user=dev1virtuoso&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://streak-stats.demolab.com?user=dev1virtuoso&theme=dark&date_format=M%20j%5B%2C%20Y%5D)
-
-- https://gh-stats-gen.vercel.app/
-
-![dev1virtuoso's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dev1virtuoso&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
