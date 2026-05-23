@@ -65,3 +65,5 @@ Feel free to reach out to me through the [following methods](https://github.com/
 - [GitHub Streak](https://github.com/anuraghazra/github-readme-stats)
 
 [![github-readme-streak-stats](https://streak-stats.demolab.com?user=dev1virtuoso&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://streak-stats.demolab.com?user=dev1virtuoso&theme=dark&date_format=M%20j%5B%2C%20Y%5D)
+
+[![committers.top badge](https://user-badge.committers.top/hong_kong_public/USERNAME.svg)](https://user-badge.committers.top/hong_kong_public/dev1virtuoso)
