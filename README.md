@@ -7,9 +7,9 @@
 
 - 🌱 I’m currently learning **Go and Ruby**
 
-- 👯 I’m looking to collaborate on [ViDiAD](https://github.com/dev1virtuoso/Machine-Learning/tree/main/Computer-Vision/ViDiAD)
+- 👯 I’m looking to collaborate on [ViDiAD](https://github.com/dev1virtuoso/Machine-Learning/tree/main/Computer%20Vision/ViDiAD)
 
-- 🤝 I’m looking for help with [Lane-Keeping_and_Obstacle-Avoidance_System](https://github.com/dev1virtuoso/Machine-Learning/tree/main/Computer-Vision/Lane-Keeping%20and%20Obstacle-Avoidance%20System)
+- 🤝 I’m looking for help with [Lane-Keeping_and_Obstacle-Avoidance_System](https://github.com/dev1virtuoso/Machine-Learning/tree/main/Computer%20Vision/L.K.O.A.)
 
 - 👨‍💻 All of my projects are available at [my GitHub](https://github.com/dev1virtuoso) 
 
